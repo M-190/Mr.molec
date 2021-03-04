@@ -5,8 +5,8 @@ import time
 import sys
 
 def banner():
-  print("TOOL IS CREATED BY KRISHNA PRANAv")
-  print("My GitHub Link https://github.com/krishpranav")
+  print("TOOL IS CREATED BY MR MOLEC")
+  print("My GitHub Link https://github.com/M109")
   print("Do Not Forget To Follow Me :)")
 
 print("""
