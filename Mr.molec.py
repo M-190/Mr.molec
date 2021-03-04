@@ -8,6 +8,27 @@ def banner():
   print("TOOL IS CREATED BY MR.MOLEC")
   print("My GitHub Link https://github.com/M109")
   print("Do Not Forget To Follow Me :)")
+  
+  import requests, re , colorama
+colorama.init()
+print("""
+\033[1;91m
+██████╗ ███████╗███████╗██╗   ██╗██████╗  ██████╗      ██╗  ██╗
+██╔══██╗██╔════╝██╔════╝██║   ██║██╔══██╗██╔═══██╗     ╚██╗██╔╝
+██████╔╝███████╗█████╗  ██║   ██║██║  ██║██║   ██║█████╗╚███╔╝ 
+██╔═══╝ ╚════██║██╔══╝  ██║   ██║██║  ██║██║   ██║╚════╝██╔██╗ 
+██║     ███████║███████╗╚██████╔╝██████╔╝╚██████╔╝     ██╔╝ ██╗
+╚═╝     ╚══════╝╚══════╝ ╚═════╝ ╚═════╝  ╚═════╝      ╚═╝  ╚═╝
+                                                               
+
+        CYBERSECT
+
+        TRIBAL CYBERSECT
+        
+        LGBT CYBERSECT
+        
+        TEAM PRANING
+
 
 print("""
 
