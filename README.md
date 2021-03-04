@@ -7,14 +7,14 @@ Steps to run this tool:
    
 2. cd cctvhack
 
-3. chmod 777 *
+3.python3 Mr.molec.py
 
- 
-4.python3 -m pip install -r requirements.txt
+ CYBERSECT AND TEAM PRANING
 
 
-5. python3 Mr.molec.py
+
+
    
    
 
-CYBERSECT AND TEAM PRANING
+
