@@ -5,7 +5,7 @@ Steps to run this tool:
 
 1. git clone https://github.com/M-190/Mr.molec.git
    
-2. cd cctvhack
+2. cd Mr.molec
 
 3.python3 Mr.molec.py
 
