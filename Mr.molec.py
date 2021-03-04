@@ -1,8 +1,9 @@
-import requests
-import re
-import os
-import time
-import sys
+#!/usr/bin/env python3
+#-*- coding: utf-8 -*-
+
+
+
+
 
 def banner():
   print("TOOL IS CREATED BY MR.MOLEC")
@@ -29,6 +30,9 @@ print("""
         
         TEAM PRANING
 
+
+\033[1;31m
+                MR.MOL3C
 
 print("""
 
